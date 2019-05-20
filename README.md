@@ -1,5 +1,5 @@
 # enthalpy_prediction_draft
-This is the official repository for the paper {Machine Learning to Predict Standard Enthalpy of Formation of Hydrocarbons}. Enthalpy is predicted using both Support Vector Regression (SVR) and Artificial Neural Networks (ANNs)
+This is the official repository for the paper "Machine Learning to Predict Standard Enthalpy of Formation of Hydrocarbons". Enthalpy is predicted using both Support Vector Regression (SVR) and Artificial Neural Networks (ANNs).
 
 ## Setup 
 Anaconda was used to create the virtual environment for this project. Feel free to use one of the following commands to set up the required environment:
