@@ -1,5 +1,5 @@
 # Enthalpy Prediction
-This is the official repository for the paper "Machine Learning to Predict Standard Enthalpy of Formation of Hydrocarbons". Enthalpy is predicted using both Support Vector Regression (SVR) and Artificial Neural Networks (ANNs).
+This is the official repository for the paper "Machine Learning to Predict Standard Enthalpy of Formation of Hydrocarbons". Enthalpy of formation is predicted using both Support Vector Regression (SVR) and Artificial Neural Networks (ANNs).
 
 ## Setup 
 Anaconda was used to create the virtual environment for this project. Feel free to use one of the following commands to set up the required environment:
@@ -46,16 +46,21 @@ It must be noted that the files for SVR and ANN are very similar and could be co
 Code was written by Vincent C.O. van Oudenhoven. Kiran Yalamanchi was responsible for the used data. 
 
 ## Acknoledgement 
+This code was developed at the King Abdullah University of Science and Technology (KAUST) and was supported by the KAUST Clean Fuels Consortium (KCFC) and its member companies.
 
 ## License
 
-## Referencing
-Still need to add the reference
-
-### BibTex
-@article{luong17,
-  author  = {Kiran K. Yalamanchi, Vincent C.O. van Oudenhoven, Francesco Tutino, M. Monge-Palacios, Abdulelah Alshehri, S. Mani Sarathy, Xin Gao},
-  title   = {},
-  journal = {},
+## BibTex
+```
+@article{YO19,
+  author  = {Yalamanchi, Kiran K. and van Oudenhoven, Vincent C. O. and Tutino, Francesco and Monge-Palacios, M. and Alshehri, Abdulelah and Gao, Xin and Sarathy, S. Mani},
+  title   = {Machine Learning To Predict Standard Enthalpy of Formation of Hydrocarbons},
+  journal = {The Journal of Physical Chemistry A},
+  volume  = {123},
+  number  = {38},
+  pages   = {8305-8313},
   year    = {2019},
+  doi     = {10.1021/acs.jpca.9b04771},
+  URL     = {https://doi.org/10.1021/acs.jpca.9b04771}
 }
+```
