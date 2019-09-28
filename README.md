@@ -7,11 +7,12 @@ Anaconda was used to create the virtual environment for this project. Feel free 
 From `.yml` file (this preserves all package versions and is thus recommended):  
 `conda env create -f enthalpy_prediction.yml`
 
-Conda commands:   
+Conda commands: 
+```
 `conda create -n enthalpy_prediction python=3.6`   
 `conda activate enthalpy_prediction`   
 `conda install pandas keras scikit-learn xlrd`  
-
+```
 If a different method for setting up the environment is preferred please refer to the text of the `.yml` file for the versions of each used package. 
 
 ## Overview of files
@@ -47,8 +48,6 @@ Code was written by Vincent C.O. van Oudenhoven. Kiran Yalamanchi was responsibl
 
 ## Acknoledgement 
 This code was developed at the King Abdullah University of Science and Technology (KAUST) and was supported by the KAUST Clean Fuels Consortium (KCFC) and its member companies.
-
-## License
 
 ## BibTex
 ```
