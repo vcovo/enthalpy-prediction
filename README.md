@@ -46,7 +46,7 @@ It must be noted that the files for SVR and ANN are very similar and could be co
 ## Authorship
 Code was written by Vincent C.O. van Oudenhoven. Kiran Yalamanchi was responsible for the used data. 
 
-## Acknoledgement 
+## Acknowledgement 
 This code was developed at the King Abdullah University of Science and Technology (KAUST) and was supported by the KAUST Clean Fuels Consortium (KCFC) and its member companies.
 
 ## BibTex
